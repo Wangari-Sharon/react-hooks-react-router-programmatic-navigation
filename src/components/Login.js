@@ -44,4 +44,4 @@ function Login({ setIsLoggedIn }) {
   );
 }
 
-export default Login;
+export default Login
